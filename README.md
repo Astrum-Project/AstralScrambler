@@ -8,4 +8,5 @@ Assembly information scrambler to bypass static detection
 
 # Note
 - Currently this seems to break mods that depend on UIExpansionKit
+- Currently this will irreparably modify all of your assemblies beyond recognition, please make backups prior to use
 - :trollface:
